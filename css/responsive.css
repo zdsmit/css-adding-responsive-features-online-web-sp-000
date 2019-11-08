@@ -24,4 +24,7 @@
   #social {
     top: 72px;
   }
+  .col-3 p {
+    column-count: 2;
+  }
 }

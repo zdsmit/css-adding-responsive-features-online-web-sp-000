@@ -44,4 +44,7 @@
   .border-right {
     border: 0;
   }
+  #details div {
+    height: auto;
+  }
 }
